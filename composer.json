@@ -1,0 +1,10 @@
+{
+    "name": "sug/design-patterns",
+    "autoload": {
+        "psr-4": {
+            "Strategy\\" : "StrategyPattern",
+            "Observer\\" : "ObserverPattern",
+            "Decorator\\" : "DecoratorPattern"
+        }
+    }
+}
